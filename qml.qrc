@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>testqml.qml</file>
+        <file>itutayf0.png</file>
+        <file>map.qml</file>
+        <file>background1.jpg</file>
+        <file>oie_1SZ5qFRcqEV6.jpg</file>
+        <file>başlatj.png</file>
+        <file>ayrılj.png</file>
+        <file>durdurj.png</file>
+        <file>filtrelej.png</file>
+        <file>uuuy.png</file>
+        <file>green.png</file>
+        <file>red.png</file>
+        <file>emergency-alarm-with-reverb-29431.mp3</file>
+        <file>TayfLogo.jpg</file>
+        <file>skinn.jpeg</file>
+        <file>a4e8ec629a520b2ef8c8865a1b075bbf.jpg</file>
+        <file>d268f0f05fdb3ded384bc409d08bf1f2.jpg</file>
+        <file>da238529cca5fd3b961e3843ce62880f.jpg</file>
+        <file>kop.jpg</file>
+        <file>fileqml.qml</file>
+    </qresource>
+</RCC>
